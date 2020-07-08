@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/C_Primer_Plus_6th_answer.dir/main.c.o CMakeFiles/C_Primer_Plus_6th_answer.dir/chapter_2/1.c.o  -o C_Primer_Plus_6th_answer 

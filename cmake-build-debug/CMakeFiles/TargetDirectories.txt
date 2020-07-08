@@ -1,0 +1,3 @@
+/home/yangyang/桌面/C_Primer_Plus_6th_answer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yangyang/桌面/C_Primer_Plus_6th_answer/cmake-build-debug/CMakeFiles/C_Primer_Plus_6th_answer.dir
+/home/yangyang/桌面/C_Primer_Plus_6th_answer/cmake-build-debug/CMakeFiles/edit_cache.dir
